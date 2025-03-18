@@ -1,2 +1,3 @@
 Python & Scikit-Learn Cancer Prediction Project
-![Descripción](portada.png)
+![Portada](https://raw.githubusercontent.com/theladev/machine-learning/main/portada.png)
+
